@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "A first blog!"
+date: 2022-01-03
 ---
 
 # To begin...
